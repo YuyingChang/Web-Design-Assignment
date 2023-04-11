@@ -1,0 +1,251 @@
+
+#top{
+    background-color: #005679;
+}
+
+
+.navbar{
+    padding-bottom: 3%;
+    
+   
+}
+
+.nav-link{
+    color: white;
+    font-family: 'Handlee', cursive;
+    font-size: 25px;
+    margin: 0 8px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand img{
+    width:50px;
+    height:50px;
+}
+
+.big-top{
+    color:white;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    
+    text-align: center;
+}
+
+@media only screen and (max-width:425px){
+    .big-top{
+        font-size: 30px;
+    }
+    
+}
+
+.top-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+a{text-decoration: none;}
+
+.hero-img{
+    width: 100%;
+    height: auto;
+    border-radius: 2%;
+}
+
+#intro{
+    padding: 2% 0;
+}
+
+#intro img{
+    width: 100%;
+    height: auto;
+    border-radius: 2%;
+}
+
+.intro-ul{
+    font-family: 'Handlee', cursive;
+    list-style-image: url(tpic/tennis-ball\ \(1\).png);
+    padding: 10px;
+    color: #005679;
+}
+
+.intro-tetx{
+    line-height: 3rem;
+    text-align: justify;
+    
+}
+
+#why{
+    background-color: #005679;
+    text-align: center;
+    color: whitesmoke;
+    padding: 4% 15%;
+    font-family:'Lobster', cursive;
+    
+}
+
+.all-head{
+    padding-top: 20px;
+    padding-bottom:30px;
+    font-family:'Lobster', cursive;
+    font-size: 3rem;
+    text-align: center;
+} 
+
+.why-text{
+    padding: 2%;
+}
+
+.why-text h3{
+    padding-bottom: 3%;    
+}
+
+.why-text h3:hover{
+    color:rgb(30, 238, 189);
+}
+
+.why-text p{
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    color: white;
+    font-weight:bolder;
+}
+
+.why-text p:hover{
+    color:rgb(30, 238, 189);
+}
+
+.why-icon{
+    color:rgb(30, 238, 189);
+    margin-bottom: 1rem;
+}
+
+.why-icon:hover{
+    color: white;
+}
+
+#equipment{
+    padding: 5% 5%;
+    color: #005679;
+    
+}
+
+   
+.eq-col{
+    padding: 3% 2%;
+}
+
+.eq-img{
+    width: 100%;
+    height: auto;
+    border-radius: 2%;
+
+}
+.eq-text{
+    text-align: center;
+    font-family:'Lobster', cursive;
+    font-size: 2rem;
+    letter-spacing: 3px;
+    color: #005679;
+
+}
+
+
+#rules{
+    background-image: url(tpic/court.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding: 4% 5%;
+}
+
+.rules-head{
+    color: whitesmoke;
+    letter-spacing: 3px;
+    
+}
+
+.rules-col{
+    padding: 3% 2%;
+}
+
+
+.eq-text{
+    padding: 3% 0;
+}
+
+.rules-ul{
+    font-family: 'Handlee', cursive;
+    list-style-image: url(tpic/tennis-ball\ \(1\).png);
+    padding: 10px;
+    color: #005679;
+}
+
+
+#play{
+    min-height: 50rem;
+    color: #005679;
+}
+
+.play-video{
+    width: 100%;
+    height: 600px;
+}
+
+
+#players{
+    padding: 3% 15%;
+    background-color: #005679;
+    color: white;
+}
+
+.players-items{
+    width: 85%;
+    place-items: center;
+    padding-left: 15%;
+}
+
+.players-img{
+    width: 100%;
+    height: 200px;
+    
+}
+@media only screen and (min-width:768px) {
+    .players-img{
+         height:400px
+
+         
+ }
+}
+
+#footer{
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    word-spacing: 2px;
+
+    
+   
+}
+
+.f-icon{
+    padding:0 1%;
+    color: black;
+    size: 2px;
+    margin: 20px 0;
+}
+
+.f-icon:hover{
+    color: #005679;
+}
+
+
+
+
+
+
+
+
